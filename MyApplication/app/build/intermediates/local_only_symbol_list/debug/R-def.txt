@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable background
+drawable exit
+drawable froggy
+drawable froggyrun
+drawable ground
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable land_1
+drawable land_2
+drawable land_3
+drawable land_4
+drawable new_highest
+drawable restart
+drawable spike
+drawable spike1
+drawable spike2
+id ivNewHighest
+id tvHighest
+id tvPoints
+layout activity_main
+layout game_over
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AppCompat.Light.NoActionBar.FullScreen
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

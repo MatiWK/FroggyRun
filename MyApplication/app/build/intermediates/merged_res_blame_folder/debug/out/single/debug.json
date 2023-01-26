@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_froggy.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\froggy.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_spike1.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\spike1.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_land_4.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\land_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_froggyrun.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\froggyrun.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-25:/layout_game_over.xml.flat",
+        "source": "com.example.myapplication.app-main-27:/layout/game_over.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-25:/drawable_new_highest.png.flat",
+        "source": "com.example.myapplication.app-main-27:/drawable/new_highest.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\layout_game_over.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\layout\\game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_land_1.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\land_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_spike2.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\spike2.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_restart.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\restart.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_ground.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\ground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_land_3.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\land_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_spike.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\spike.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_land_2.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\land_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\drawable_exit.png.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mati\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
